@@ -54,3 +54,7 @@ So that the system operates correctly
 ## 🚀 Status
 
 Project initialized. Development in progress.
+
+## Team Members:
+
+- Mert Temiz 
